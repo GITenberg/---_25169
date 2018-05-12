@@ -1,0 +1,33 @@
+_repo: '---_25169'
+_version: 0.1.0
+alternative_title: Guan Yinzi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yin, Xi, active 6th century B.C.
+    aliases:
+    - Guanyinzi
+    - Yin, Hsi
+    - 關尹子
+    - 尹喜
+    - Kuan-yin-tzu
+    gutenberg_agent_id: '31118'
+    url: http://www.gutenberg.org/2009/agents/31118
+description: ''
+gutenberg_issued: '2008-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25169'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Taoism'
+- !lcsh 'Logic, Ancient'
+- !lcc 'BL'
+- !lcsh 'Chinese classics'
+title: 關尹子
+url: http://www.gutenberg.org/ebooks/25169
